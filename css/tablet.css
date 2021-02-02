@@ -1,0 +1,10 @@
+.plans-cards,
+.main-tables{
+    justify-content: space-evenly;
+    margin: 0;
+}
+footer{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-items: center;
+}

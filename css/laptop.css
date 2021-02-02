@@ -1,0 +1,30 @@
+html{
+    font-size: 67%;
+}
+.header--title-container h1 {
+    font-size: 3.4rem;
+    line-height: 3.6rem;
+}
+.header--title-container p {
+    font-size: 1.8rem;
+    font-size: 2.2rem;
+}
+.header--title-container .header--button{
+    width: 329px;
+    height: 58px;
+    font-size: 1.8rem;
+    left: calc(50% - 165px);
+}
+.plans-cards,
+.main-tables{
+    overflow-x: unset;
+}
+.main-exchage{
+    font-size: 80%;
+}
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
